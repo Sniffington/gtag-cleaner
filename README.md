@@ -2,6 +2,7 @@ Hello and welcome!
 
 First of all you use our cleaner after you get banned from the game.
 Be aware this does not unban your account it only makes it harder for the developers to track you down and get you banned.
+Please leave the other exes alone they are required for the spoofer to work.
 
 ===========================================================================
 
