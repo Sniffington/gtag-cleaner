@@ -5,9 +5,9 @@ Be aware this does not unban your account it only makes it harder for the develo
 
 ===========================================================================
 
-1. Run gtag_cleaner.exe
+1. Run cleaner.exe
 2. Make a new steam account with gmail
-3. Use a spoofer if you have to (Monotone is reccommended)
+3. Use our spoofer if you have to
 4. Turn on VPN
 5. Launch Gtag
 
