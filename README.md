@@ -11,5 +11,6 @@ Be aware this does not unban your account it only makes it harder for the develo
 4. Turn on VPN
 5. Launch Gtag
 
-If your skipping the tutorial read steps 1 - 4
-Then open the game on a new account
+If your skipping the tutorial read steps 1 - 4 then open the game on a new account
+
+- Sniff#8349
