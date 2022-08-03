@@ -3,7 +3,7 @@ Hello and welcome!
 First of all you use our cleaner after you get banned from the game.
 Be aware this does not unban your account it only makes it harder for the developers to track you down and get you banned.
 
-================================================================================================================================
+===========================================================================
 
 1. Run gtag_cleaner.exe
 2. Make a new steam account with gmail
