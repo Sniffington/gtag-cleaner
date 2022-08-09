@@ -1,3 +1,5 @@
+Spoofer GTAG ONLY!
+
 Hello and welcome!
 
 First of all you use our cleaner after you get banned from the game.
