@@ -8,9 +8,9 @@ Please leave the other exes alone they are required for the spoofer to work.
 
 ===========================================================================
 
-1. Run cleaner.exe
+1. Run gtagcleaner.exe
 2. Make a new steam account with gmail
-3. Use our spoofer if you have to
+3. Use the built in spoofer if you have to
 4. Turn on VPN
 5. Launch Gtag
 
