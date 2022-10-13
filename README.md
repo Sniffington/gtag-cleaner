@@ -23,6 +23,6 @@ Monotone will be built in with the code from there spoofer when I have more moti
 
 ![image](https://user-images.githubusercontent.com/68871451/195731519-bed57d8e-8b5d-4fd6-a8b1-4a51d97f4aaf.png)
 
-![image](https://user-images.githubusercontent.com/68871451/195731536-dd775538-8804-4f9e-b525-f8dc5c0223e1.png) (AND 3)
+![image](https://user-images.githubusercontent.com/68871451/195731536-dd775538-8804-4f9e-b525-f8dc5c0223e1.png) (AND OPTION 3)
 
 ![image](https://user-images.githubusercontent.com/68871451/195731569-66a33ce8-6b31-4e71-b225-83054cf3ee85.png)
