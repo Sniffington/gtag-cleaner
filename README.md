@@ -13,6 +13,8 @@ Be aware this does not unban your account it only makes it harder for the develo
 4. Turn on VPN
 5. Launch Gtag
 
+Monotone will be built in with the code from there spoofer when I have more motivation, this is just a passion project. I do not get any profit from this. :(
+
 - Sniff#8349
 
 ![image](https://user-images.githubusercontent.com/68871451/195731473-faeab4e2-d7d9-4c33-b91e-311419e9e3f8.png)
